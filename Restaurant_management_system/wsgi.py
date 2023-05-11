@@ -16,3 +16,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Restaurant_management_system.se
 application = get_wsgi_application()
 
 app=application
+
